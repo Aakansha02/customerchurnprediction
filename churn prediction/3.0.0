@@ -1,0 +1,6 @@
+Collecting Werkzeug
+  Using cached werkzeug-3.0.4-py3-none-any.whl.metadata (3.7 kB)
+Requirement already satisfied: MarkupSafe>=2.1.1 in c:\users\mishr\appdata\local\programs\python\python312\lib\site-packages (from Werkzeug) (2.1.5)
+Using cached werkzeug-3.0.4-py3-none-any.whl (227 kB)
+Installing collected packages: Werkzeug
+Successfully installed Werkzeug-3.0.4
